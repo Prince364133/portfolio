@@ -184,7 +184,7 @@ const projects = [
     {
         title: "Snap Shiksha",
         description: "teacher booking educational platform.",
-        image: "logo.png",
+        image: "logo.jpg",
         link: "https://673f764d7a24a.site123.me/"
     }
 ];
