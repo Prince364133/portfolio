@@ -136,55 +136,55 @@ const projects = [
     {
         title: "Peach Project",
         description: "An innovative web application focused on user experience.",
-        image: "project.png",
+        image: "portfolio\project.png",
         link: "https://peach-nancey-79.tiiny.site"
     },
     {
         title: "Silver Project",
         description: "Advanced data visualization and analytics platform.",
-        image: "project.png",
+        image: "portfolio\project.png",
         link: "https://silver-diane-marie-96.tiiny.site"
     },
     {
         title: "Lavender Project",
         description: "Modern e-learning management system.",
-        image: "project.png",
+        image: "portfolio\project.png",
         link: "https://lavender-elmira-23.tiiny.site"
     },
     {
         title: "Sapphire Project",
         description: "Real-time collaboration tools for remote teams.",
-        image: "project.png",
+        image: "portfolio\project.png",
         link: "https://sapphire-allis-14.tiiny.site/"
     },
     {
         title: "Chocolate Project",
         description: "E-commerce solution with AI-powered recommendations.",
-        image: "project.png",
+        image: "portfolio\project.png",
         link: "chocolate-glori-29.tiiny.site"
     },
     {
         title: "Brown Project",
         description: "Content management system with advanced features.",
-        image: "project.png",
+        image: "portfolio\project.png",
         link: "https://brown-cody-68.tiiny.site"
     },
     {
         title: "Blue Project",
         description: "Cloud-based file management solution.",
-        image: "project.png",
+        image: "portfolio\project.png",
         link: "https://orange-carmen-93.tiiny.site"
     },
     {
         title: "Orange Project",
         description: "Mobile-first responsive web application.",
-        image: "project.png",
+        image: "portfolio\project.png",
         link: "https://coral-gretna-59.tiiny.site"
     },
     {
         title: "Snap Shiksha",
         description: "teacher booking educational platform.",
-        image: "logo.jpg",
+        image: "portfolio\logo.jpg",
         link: "https://673f764d7a24a.site123.me/"
     }
 ];
