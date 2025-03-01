@@ -146,22 +146,22 @@ const projects = [
         link: "https://silver-diane-marie-96.tiiny.site"
     },
     {
-        title: "Lavender Project",
+        title: "99website",
         description: "Modern e-learning management system.",
         image: "project.png",
-        link: "https://lavender-elmira-23.tiiny.site"
+        link: "99website.odoo.com"
     },
     {
-        title: "Sapphire Project",
+        title: "sports website",
         description: "Real-time collaboration tools for remote teams.",
         image: "project.png",
         link: "https://sapphire-allis-14.tiiny.site/"
     },
     {
-        title: "Chocolate Project",
+        title: "Ca Consultant",
         description: "E-commerce solution with AI-powered recommendations.",
         image: "project.png",
-        link: "chocolate-glori-29.tiiny.site"
+        link: "thantaxconsultancy.in"
     },
     {
         title: "Brown Project",
@@ -170,22 +170,22 @@ const projects = [
         link: "https://brown-cody-68.tiiny.site"
     },
     {
-        title: "Blue Project",
+        title: "service center",
         description: "Cloud-based file management solution.",
         image: "project.png",
-        link: "https://orange-carmen-93.tiiny.site"
+        link: "classicservicecenter.odoo.com"
     },
     {
-        title: "Orange Project",
+        title: "secure future institute",
         description: "Mobile-first responsive web application.",
         image: "project.png",
-        link: "https://coral-gretna-59.tiiny.site"
+        link: "securefutureinstitute.odoo.com"
     },
     {
         title: "Snap Shiksha",
         description: "teacher booking educational platform.",
         image: "logo.png",
-        link: "https://673f764d7a24a.site123.me/"
+        link: "snapshiksha.odoo.com"
     }
 ];
 
