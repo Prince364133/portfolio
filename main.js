@@ -134,13 +134,13 @@ links.forEach(link => {
 // Projects Data
 const projects = [
     {
-        title: "Peach Project",
+        title: "Property website",
         description: "An innovative web application focused on user experience.",
         image: "project.png",
         link: "https://peach-nancey-79.tiiny.site"
     },
     {
-        title: "Silver Project",
+        title: "Service website",
         description: "Advanced data visualization and analytics platform.",
         image: "project.png",
         link: "https://silver-diane-marie-96.tiiny.site"
