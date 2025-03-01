@@ -149,7 +149,7 @@ const projects = [
         title: "99website",
         description: "Modern e-learning management system.",
         image: "project.png",
-        link: "99website.odoo.com"
+        link: "https://99website.odoo.com"
     },
     {
         title: "sports website",
@@ -161,7 +161,7 @@ const projects = [
         title: "Ca Consultant",
         description: "E-commerce solution with AI-powered recommendations.",
         image: "project.png",
-        link: "thantaxconsultancy.in"
+        link: "https://thantaxconsultancy.in"
     },
     {
         title: "Brown Project",
@@ -173,19 +173,25 @@ const projects = [
         title: "service center",
         description: "Cloud-based file management solution.",
         image: "project.png",
-        link: "classicservicecenter.odoo.com"
+        link: "https://classicservicecenter.odoo.com"
     },
     {
         title: "secure future institute",
         description: "Mobile-first responsive web application.",
         image: "project.png",
-        link: "securefutureinstitute.odoo.com"
+        link: "https://securefutureinstitute.odoo.com"
     },
     {
         title: "Snap Shiksha",
         description: "teacher booking educational platform.",
         image: "logo.png",
-        link: "snapshiksha.odoo.com"
+        link: "https://snapshiksha.odoo.com"
+    },
+    {
+        title: "icc collage",
+        description: "teacher booking educational platform.",
+        image: "logo.png",
+        link: "https://icccollage.odoo.com"
     }
 ];
 
