@@ -161,7 +161,7 @@ const projects = [
         title: "Ca Consultant",
         description: "E-commerce solution with AI-powered recommendations.",
         image: "project.png",
-        link: "https://thantaxconsultancy.in"
+        link: "https://www.manthantaxconsultancy.in"
     },
     {
         title: "Brown Project",
