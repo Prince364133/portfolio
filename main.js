@@ -140,10 +140,10 @@ const projects = [
         link: "https://peach-nancey-79.tiiny.site"
     },
     {
-        title: "Service website",
+        title: "Book Owl",
         description: "Advanced data visualization and analytics platform.",
         image: "project.png",
-        link: "https://silver-diane-marie-96.tiiny.site"
+        link: "https://bookowl.odoo.com"
     },
     {
         title: "99website",
@@ -190,7 +190,7 @@ const projects = [
     {
         title: "icc collage",
         description: "teacher booking educational platform.",
-        image: "logo.png",
+        image: "project.png",
         link: "https://icccollage.odoo.com"
     }
 ];
